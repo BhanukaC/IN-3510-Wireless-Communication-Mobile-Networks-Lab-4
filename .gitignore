@@ -1,0 +1,19 @@
+# Flutter
+websocket_chat/build/
+websocket_chat/.dart_tool/
+websocket_chat/.idea/
+websocket_chat/.vscode/
+websocket_chat/pubspec.lock
+
+# Node
+server/node_modules/
+
+
+# React
+web/node_modules/
+web/build/
+web/.env
+
+# OS/Editor files
+.DS_Store
+*.log
